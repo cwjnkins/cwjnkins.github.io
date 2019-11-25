@@ -35,7 +35,7 @@ consideration for the *Proceedings of the 9th ACM SIGPLAN International
 Conference on Certified Programs and Proofs* (2020).
 
 
-### *[Quotient by idempotent functions in Cedille](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf)*
+### *[Quotients by idempotent functions in Cedille](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf)*
 
 Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
 *Trends in Functional Programming* (2019).
