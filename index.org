@@ -23,6 +23,7 @@
    [[http://www.divms.uiowa.edu/][Mathematical Sciences]] University of Iowa, Iowa City, IA 52236.
    - Campus mailing address: 14 MacLean Hall
    - Office: Seamans Center for the Engineering Arts and Sciences, #1422
+   - Website: https://cwjnkins.github.io/
 * Papers
 ** 2019
 *** /[[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][Elaborating inductive definitions and course-of-values induction in Cedille]]/

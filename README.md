@@ -19,6 +19,7 @@ of datatypes and terminating recursion schemes.
 
 -   Campus mailing address: 14 MacLean Hall
 -   Office: Seamans Center for the Engineering Arts and Sciences, #1422
+-   Website: <https://cwjnkins.github.io/>
 
 
 # Papers
