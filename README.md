@@ -22,6 +22,9 @@ of datatypes and terminating recursion schemes.
 -   Office: Seamans Center for the Engineering Arts and Sciences, #1422
 -   Website: <https://cwjnkins.github.io/>
 -   GitHub: <https://github.com/cwjnkins>
+-   YouTube: *[Cedille Programming Language](https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw)*
+    
+    Creator of Cedille casts 1-8
 
 
 # Papers
