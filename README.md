@@ -5,7 +5,8 @@
 ![img](assets/me.jpg)
 
 Computer Science PhD student working with the [Computational Logic Center](http://clc.cs.uiowa.edu/),
-matriculated 2017 Aug. Advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/). [CV](assets/cv.pdf).
+matriculated 2017 Aug. Advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/), and research assistantship
+with same developing [Cedille](https://cedille.github.io/), an experimental dependent type theory. [CV](assets/cv.pdf).
 
 Research interests include the design of programming languages with
 Curry-style type theories, verified elaboration of sophisticated surface language
@@ -13,13 +14,14 @@ features to a simple core theory, dependent types, and categorical semantics
 of datatypes and terminating recursion schemes.
 
 
-## Location
+## Locations
 
 [Mathematical Sciences](http://www.divms.uiowa.edu/) University of Iowa, Iowa City, IA 52236.
 
 -   Campus mailing address: 14 MacLean Hall
 -   Office: Seamans Center for the Engineering Arts and Sciences, #1422
 -   Website: <https://cwjnkins.github.io/>
+-   GitHub: <https://github.com/cwjnkins>
 
 
 # Papers
