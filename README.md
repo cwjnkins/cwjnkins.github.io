@@ -13,6 +13,8 @@ Curry-style type theories, verified elaboration of sophisticated surface languag
 features to a simple core theory, dependent types, and categorical semantics
 of datatypes and terminating recursion schemes.
 
+Creator of Cedille casts 1-9 on *[Cedille Programming Language](https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw)* YouTube channel.
+
 
 ## Locations
 
@@ -22,22 +24,12 @@ of datatypes and terminating recursion schemes.
 -   Office: Seamans Center for the Engineering Arts and Sciences, #1422
 -   Website: <https://cwjnkins.github.io/>
 -   GitHub: <https://github.com/cwjnkins>
--   YouTube: *[Cedille Programming Language](https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw)*
-    
-    Creator of Cedille casts 1-8
 
 
 # Papers
 
 
 ## 2019
-
-
-### *[Elaborating inductive definitions and course-of-values induction in Cedille](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf)*
-
-Jenkins, Christopher and McDonald, Colin, and Stump, Aaron. Under
-consideration for the *Proceedings of the 9th ACM SIGPLAN International
-Conference on Certified Programs and Proofs* (2020).
 
 
 ### *[Quotients by idempotent functions in Cedille](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf)*
@@ -59,5 +51,12 @@ on Implementation and Application of Functional Languages* (pp. 37–48)
 ## Unpublished manuscripts
 
 
-### [Course-of-value induction in Cedille](assets/FDJS18_CoV-Ind.pdf). Firsov, D., Diehl, L., Jenkins, C., & Stump, A., (2018).
+### [Course-of-value induction in Cedille](assets/FDJS18_CoV-Ind.pdf).
+
+Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron. (2018).
+
+
+### [Elaborating inductive definitions and course-of-values induction in Cedille](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf)
+
+Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
 

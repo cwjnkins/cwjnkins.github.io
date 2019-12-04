@@ -1,5 +1,4 @@
 #+TITLE: Chris Jenkins
-#+SUBTITLE: Personal web page
 #+AUTHOR: Chris Jenkins
 #+EMAIL: christopher <dash> jenkins <at> uiowa <dot> edu
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
@@ -19,6 +18,9 @@
   Curry-style type theories, verified elaboration of sophisticated surface language
   features to a simple core theory, dependent types, and categorical semantics
   of datatypes and terminating recursion schemes.
+
+  Creator of Cedille casts 1-9 on /[[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language]]/ YouTube channel.
+  
 ** Locations
 
    [[http://www.divms.uiowa.edu/][Mathematical Sciences]] University of Iowa, Iowa City, IA 52236.
@@ -26,16 +28,9 @@
    - Office: Seamans Center for the Engineering Arts and Sciences, #1422
    - Website: https://cwjnkins.github.io/
    - GitHub: https://github.com/cwjnkins
-   - YouTube: /[[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language]]/
-     
-     Creator of Cedille casts 1-8
+
 * Papers
 ** 2019
-*** /[[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][Elaborating inductive definitions and course-of-values induction in Cedille]]/
-
-    Jenkins, Christopher and McDonald, Colin, and Stump, Aaron. Under
-    consideration for the /Proceedings of the 9th ACM SIGPLAN International
-    Conference on Certified Programs and Proofs/ (2020).
 *** /[[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][Quotients by idempotent functions in Cedille]]/
 
     Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
@@ -48,4 +43,9 @@
 
 ** Unpublished manuscripts
 
-*** [[file:assets/FDJS18_CoV-Ind.pdf][Course-of-value induction in Cedille]]. Firsov, D., Diehl, L., Jenkins, C., & Stump, A., (2018).
+*** [[file:assets/FDJS18_CoV-Ind.pdf][Course-of-value induction in Cedille]].
+
+    Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron. (2018).
+*** [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][Elaborating inductive definitions and course-of-values induction in Cedille]]
+
+    Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
