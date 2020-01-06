@@ -38,6 +38,12 @@ Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
 *Trends in Functional Programming* (2019).
 
 
+### *[Monotone recursive types and recursive data representations in Cedille](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf)*
+
+Jenkins, Christopher and Stump, Aaron. (2019) Under consideration for
+publication in the journal of *Mathematical Structures in Computer Science*.
+
+
 ## 2018
 
 
