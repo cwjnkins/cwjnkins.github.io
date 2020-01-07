@@ -54,3 +54,6 @@
 *** [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][Elaborating inductive definitions and course-of-values induction in Cedille]]
 
     Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
+** Reports
+*** [[file:assets/Jen18_Qualifying-Exam.pdf][Bidirectional Type Inference in Programming Languages]]   
+    Qualifying exam report

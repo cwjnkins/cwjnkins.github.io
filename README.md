@@ -66,3 +66,11 @@ Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron. (2018)
 
 Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
 
+
+## Reports
+
+
+### [Bidirectional Type Inference in Programming Languages](assets/Jen18_Qualifying-Exam.pdf)
+
+Qualifying exam report
+
