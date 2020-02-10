@@ -44,7 +44,7 @@
     
     [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]]
 ** 2018
-*** Spine-local Type Inference
+*** /Spine-local Type Inference/
     Jenkins, Christopher and Stump, Aaron. In /Proceedings of the 30th Symposium
     on Implementation and Application of Functional Languages/ (pp. 37–48)
     (2018). New York, NY, USA: ACM.
@@ -52,19 +52,19 @@
     [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
 ** Unpublished manuscripts
 
-*** Course-of-values induction in Cedille
+*** /Course-of-values induction in Cedille/
 
     Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
     (2018).
     
     [[file:assets/FDJS18_CoV-Ind.pdf][paper]]
-*** Elaborating Inductive Definitions and Course-of-Values Induction in Cedille
+*** /Elaborating Inductive Definitions and Course-of-Values Induction in Cedille/
 
     Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
     
     [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][paper]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf][appendix]]
 ** Reports
-*** Bidirectional Type Inference in Programming Languages
+*** /Bidirectional Type Inference in Programming Languages/
     Qualifying exam report
 
     [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]

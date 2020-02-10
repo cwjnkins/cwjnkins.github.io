@@ -51,7 +51,7 @@ publication in the journal of *Mathematical Structures in Computer Science*.
 ## 2018
 
 
-### Spine-local Type Inference
+### *Spine-local Type Inference*
 
 Jenkins, Christopher and Stump, Aaron. In *Proceedings of the 30th Symposium
 on Implementation and Application of Functional Languages* (pp. 37–48)
@@ -63,7 +63,7 @@ on Implementation and Application of Functional Languages* (pp. 37–48)
 ## Unpublished manuscripts
 
 
-### Course-of-values induction in Cedille
+### *Course-of-values induction in Cedille*
 
 Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
 (2018).
@@ -71,7 +71,7 @@ Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
 [paper](assets/FDJS18_CoV-Ind.pdf)
 
 
-### Elaborating Inductive Definitions and Course-of-Values Induction in Cedille
+### *Elaborating Inductive Definitions and Course-of-Values Induction in Cedille*
 
 Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
 
@@ -81,7 +81,7 @@ Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
 ## Reports
 
 
-### Bidirectional Type Inference in Programming Languages
+### *Bidirectional Type Inference in Programming Languages*
 
 Qualifying exam report
 
