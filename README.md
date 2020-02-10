@@ -32,45 +32,58 @@ Creator of Cedille casts 1-9 on *[Cedille Programming Language](https://www.yout
 ## 2019
 
 
-### *[Quotients by idempotent functions in Cedille](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf)*
+### *Quotients by Idempotent Function in Cedille*
 
 Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
 *Trends in Functional Programming* (2019).
 
+[paper](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf)
 
-### *[Monotone recursive types and recursive data representations in Cedille](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf)*
+
+### *Monotone Recursive Types and Recursive Data Representations in Cedille*
 
 Jenkins, Christopher and Stump, Aaron. (2019) Under consideration for
 publication in the journal of *Mathematical Structures in Computer Science*.
+
+[paper](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf)
 
 
 ## 2018
 
 
-### *[Spine-local type inference](assets/JS18_Spine-local.pdf)*
+### Spine-local Type Inference
 
 Jenkins, Christopher and Stump, Aaron. In *Proceedings of the 30th Symposium
 on Implementation and Application of Functional Languages* (pp. 37–48)
 (2018). New York, NY, USA: ACM.
 
+[paper](assets/JS18_Spine-local.pdf) [slides](assets/JS18_Spine-local-Slides.pdf) [appendix](assets/JS18_Spine-local-Appendix.pdf)
+
 
 ## Unpublished manuscripts
 
 
-### [Course-of-value induction in Cedille](assets/FDJS18_CoV-Ind.pdf).
+### Course-of-values induction in Cedille
 
-Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron. (2018).
+Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
+(2018).
+
+[paper](assets/FDJS18_CoV-Ind.pdf)
 
 
-### [Elaborating inductive definitions and course-of-values induction in Cedille](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf)
+### Elaborating Inductive Definitions and Course-of-Values Induction in Cedille
 
 Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
+
+[paper](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf) [appendix](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf)
 
 
 ## Reports
 
 
-### [Bidirectional Type Inference in Programming Languages](assets/Jen18_Qualifying-Exam.pdf)
+### Bidirectional Type Inference in Programming Languages
 
 Qualifying exam report
+
+[paper](assets/Jen18_Qualifying-Exam.pdf)
 

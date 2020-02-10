@@ -31,29 +31,40 @@
 
 * Papers
 ** 2019
-*** /[[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][Quotients by idempotent functions in Cedille]]/
+*** /Quotients by Idempotent Function in Cedille/
 
     Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
     /Trends in Functional Programming/ (2019).
-*** /[[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf][Monotone recursive types and recursive data representations in Cedille]]/
+    
+    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]]
+*** /Monotone Recursive Types and Recursive Data Representations in Cedille/
 
     Jenkins, Christopher and Stump, Aaron. (2019) Under consideration for
     publication in the journal of /Mathematical Structures in Computer Science/.
-
+    
+    [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]]
 ** 2018
-*** /[[file:assets/JS18_Spine-local.pdf][Spine-local type inference]]/
+*** Spine-local Type Inference
     Jenkins, Christopher and Stump, Aaron. In /Proceedings of the 30th Symposium
     on Implementation and Application of Functional Languages/ (pp. 37–48)
     (2018). New York, NY, USA: ACM.
 
+    [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
 ** Unpublished manuscripts
 
-*** [[file:assets/FDJS18_CoV-Ind.pdf][Course-of-value induction in Cedille]].
+*** Course-of-values induction in Cedille
 
-    Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron. (2018).
-*** [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][Elaborating inductive definitions and course-of-values induction in Cedille]]
+    Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
+    (2018).
+    
+    [[file:assets/FDJS18_CoV-Ind.pdf][paper]]
+*** Elaborating Inductive Definitions and Course-of-Values Induction in Cedille
 
     Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
+    
+    [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][paper]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf][appendix]]
 ** Reports
-*** [[file:assets/Jen18_Qualifying-Exam.pdf][Bidirectional Type Inference in Programming Languages]]   
+*** Bidirectional Type Inference in Programming Languages
     Qualifying exam report
+
+    [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]
