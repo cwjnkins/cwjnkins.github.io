@@ -29,6 +29,18 @@ Creator of Cedille casts 1-9 on *[Cedille Programming Language](https://www.yout
 # Papers
 
 
+## 2020
+
+
+### *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
+
+Jenkins, Christopher and Stump, Aaron and Diehl, Larry. To appear in
+*Proceedings of the 8th Workshop on Mathematically Structured Functional
+Programming (2020)*.
+
+[paper](assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf) [code](https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata)
+
+
 ## 2019
 
 
@@ -37,7 +49,7 @@ Creator of Cedille casts 1-9 on *[Cedille Programming Language](https://www.yout
 Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
 *Trends in Functional Programming* (2019).
 
-[paper](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf)
+[paper](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf) [code](https://github.com/cedille/cedille-developments/tree/master/idem-quotients)
 
 
 ### *Monotone Recursive Types and Recursive Data Representations in Cedille*
@@ -60,7 +72,7 @@ on Implementation and Application of Functional Languages* (pp. 37–48)
 [paper](assets/JS18_Spine-local.pdf) [slides](assets/JS18_Spine-local-Slides.pdf) [appendix](assets/JS18_Spine-local-Appendix.pdf)
 
 
-## Unpublished manuscripts
+## Unpublished
 
 
 ### *Course-of-values induction in Cedille*

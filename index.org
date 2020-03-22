@@ -30,13 +30,23 @@
    - GitHub: https://github.com/cwjnkins
 
 * Papers
+
+** 2020
+
+*** /Efficient lambda encodings for Mendler-style coinductive types in Cedille/
+
+    Jenkins, Christopher and Stump, Aaron and Diehl, Larry. To appear in
+    /Proceedings of the 8th Workshop on Mathematically Structured Functional
+    Programming (2020)/.
+
+    [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]]
 ** 2019
 *** /Quotients by Idempotent Function in Cedille/
 
     Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
     /Trends in Functional Programming/ (2019).
     
-    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]]
+    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]]
 *** /Monotone Recursive Types and Recursive Data Representations in Cedille/
 
     Jenkins, Christopher and Stump, Aaron. (2019) Under consideration for
@@ -50,7 +60,7 @@
     (2018). New York, NY, USA: ACM.
 
     [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
-** Unpublished manuscripts
+** Unpublished
 
 *** /Course-of-values induction in Cedille/
 
@@ -68,3 +78,4 @@
     Qualifying exam report
 
     [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]
+
