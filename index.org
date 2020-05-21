@@ -1,81 +1,90 @@
 #+TITLE: Chris Jenkins
 #+AUTHOR: Chris Jenkins
 #+EMAIL: christopher <dash> jenkins <at> uiowa <dot> edu
-#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
+# #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
 #+OPTIONS: toc:nil num:nil
 
 * About
-
-  #+ATTR_HTML: :align right :width 128
+  
+  #+ATTR_HTML: :width 220 :style float:left; padding-right:64px
   [[file:assets/me.jpg]]
 
+  4th year CS PhD student working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
+  University of Iowa, advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]]. Research assistantship working
+  on [[https://cedille.github.io/][Cedille]], an experimental dependent type theory.
 
-  Computer Science PhD student working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]],
-  matriculated 2017 Aug. Advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]], and research assistantship
-  with same developing [[https://cedille.github.io/][Cedille]], an experimental dependent type theory. [[file:assets/cv.pdf][CV]].
+  Research interest is programming language theory, specifically (dependent)
+  type theory, inductive definitions, recursion schemes, elaboration, and
+  bidirectional type inference. Also interested in programming language
+  semantics, including categorical and realizability.
+  [[file:assets/cv.pdf][CV]].
 
-  Research interests include the design of programming languages with
-  Curry-style type theories, verified elaboration of sophisticated surface language
-  features to a simple core theory, dependent types, and categorical semantics
-  of datatypes and terminating recursion schemes.
+  # Research interests include the design of programming languages with
+  # Curry-style type theories, verified elaboration of sophisticated surface language
+  # features to a simple core theory, dependent types, and categorical semantics
+  # of datatypes and terminating recursion schemes.
 
-  Creator of Cedille casts 1-9 on /[[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language]]/ YouTube channel.
+  # Creator of Cedille casts 1-9 on /[[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language]]/ YouTube channel.
   
 ** Locations
 
    [[http://www.divms.uiowa.edu/][Mathematical Sciences]] University of Iowa, Iowa City, IA 52236.
    - Campus mailing address: 14 MacLean Hall
    - Office: Seamans Center for the Engineering Arts and Sciences, #1422
+   - Email: [[mailto:christopher-jenkins@uiowa.edu][christopher-jenkins@uiowa.edu]]
    - Website: https://cwjnkins.github.io/
-   - GitHub: https://github.com/cwjnkins
+   - Social Media: [[https://github.com/cwjnkins][Github]], [[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language (YouTube)]], [[https://www.researchgate.net/profile/Christopher_Jenkins12][ResearchGate]]
 
 * Papers
 
-** 2020
+  - *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
 
-*** /Efficient lambda encodings for Mendler-style coinductive types in Cedille/
+    Jenkins, Christopher and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/
 
-    Jenkins, Christopher and Stump, Aaron and Diehl, Larry. To appear in
-    /Proceedings of the 8th Workshop on Mathematically Structured Functional
-    Programming (2020)/.
+    [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]] 
 
-    [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]]
-** 2019
-*** /Quotients by Idempotent Function in Cedille/
+  - *Quotients by Idempotent Functions in Cedille*
 
-    Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. To appear in
-    /Trends in Functional Programming/ (2019).
-    
-    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]]
-*** /Monotone Recursive Types and Recursive Data Representations in Cedille/
+    Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. /[[https://www.tfp2019.org/][TFP 2019]]/
 
-    Jenkins, Christopher and Stump, Aaron. (2019) Under consideration for
-    publication in the journal of /Mathematical Structures in Computer Science/.
-    
-    [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]]
-** 2018
-*** /Spine-local Type Inference/
-    Jenkins, Christopher and Stump, Aaron. In /Proceedings of the 30th Symposium
-    on Implementation and Application of Functional Languages/ (pp. 37–48)
-    (2018). New York, NY, USA: ACM.
+    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]] 
 
-    [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
+  - *Monotone Recursive Types and Recursive Data Representations in Cedille*
+
+    Jenkins, Christopher and Stump, Aaron. Submitted to /[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science][J. MSCS]]/ (2019)
+
+    [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]] 
+ 
+  - *Spine-local Type Inference*
+
+    Jenkins, Christopher and Stump, Aaron. /[[http://2018.iflconference.org/][IFL 2018]]/
+   
+    [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local.bib][bib]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
+
 ** Unpublished
 
-*** /Course-of-values induction in Cedille/
+   - *Elaborating inductive definitions and course-of-values induction in Cedille*
 
-    Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
-    (2018).
-    
-    [[file:assets/FDJS18_CoV-Ind.pdf][paper]]
-*** /Elaborating Inductive Definitions and Course-of-Values Induction in Cedille/
+     Jenkins, Christopher and McDonald, Colin, and Stump, Aaron. (2019)
 
-    Jenkins, Christopher and McDonald, Colin, and Stump, Aaron.
-    
-    [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][paper]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf][appendix]]
+     [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][paper]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.bib][bib]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf][appendix]]
+   - *Course-of-value induction in Cedille*
+   
+     Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
+     (2018).
+
+     [[file:assets/FDJS18_CoV-Ind.pdf][paper]] [[file:assets/FDJS18_CoV-Ind.bib][bib]] 
+
 ** Reports
-*** /Bidirectional Type Inference in Programming Languages/
-    Qualifying exam report
 
-    [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]
 
+   - *Elaborating inductive definitions in Curry-style polymorphic type theory*
+
+     Comprehensive exam report (2020)
+
+     [[file:assets/Je20-Comp.pdf][paper]] 
+   - *Bidirectional type inference in programming languages*
+
+     Qualifying exam report (2018)
+
+     [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]
