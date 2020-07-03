@@ -37,6 +37,13 @@
 
 * Papers
 
+  - *Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille*
+
+    Stump, Aaron and Jenkins, Christopher and Spahn, Stephan and McDonald,
+    Colin. /[[https://icfp20.sigplan.org/][ICFP 2020]]/
+
+    [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf][paper]]
+
   - *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
 
     Jenkins, Christopher and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/

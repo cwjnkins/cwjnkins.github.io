@@ -28,6 +28,13 @@ semantics, including categorical and realizability.
 
 # Papers
 
+-   **Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille**
+    
+    Stump, Aaron and Jenkins, Christopher and Spahn, Stephan and McDonald,
+    Colin. *[ICFP 2020](https://icfp20.sigplan.org/)*
+    
+    [paper](assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf)
+
 -   **Efficient lambda encodings for Mendler-style coinductive types in Cedille**
     
     Jenkins, Christopher and Stump, Aaron and Diehl, Larry. *[MSFP 2020](https://msfp-workshop.github.io/msfp2020/)*
