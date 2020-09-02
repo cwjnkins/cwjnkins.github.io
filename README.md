@@ -33,13 +33,13 @@ semantics, including categorical and realizability.
     Stump, Aaron and Jenkins, Christopher and Spahn, Stephan and McDonald,
     Colin. *[ICFP 2020](https://icfp20.sigplan.org/)*
     
-    [paper](assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf)
+    [paper](assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf) [bib](assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.bib) [talk](https://www.youtube.com/watch?v=fakSKvP9yaM&t=2580s)
 
 -   **Efficient lambda encodings for Mendler-style coinductive types in Cedille**
     
     Jenkins, Christopher and Stump, Aaron and Diehl, Larry. *[MSFP 2020](https://msfp-workshop.github.io/msfp2020/)*
     
-    [paper](assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf) [bib](assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib) [code](https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata)
+    [paper](assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf) [bib](assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib) [slides](assets/JSD20_Efficient-Mendler-Style-Coinductive-Types_Talk.pdf) [talk](https://youtu.be/mrgS7dcA6z4?t=1860) [code](https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata)
 
 -   **Quotients by Idempotent Functions in Cedille**
     

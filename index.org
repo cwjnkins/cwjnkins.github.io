@@ -42,13 +42,13 @@
     Stump, Aaron and Jenkins, Christopher and Spahn, Stephan and McDonald,
     Colin. /[[https://icfp20.sigplan.org/][ICFP 2020]]/
 
-    [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf][paper]]
+    [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf][paper]] [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.bib][bib]] [[https://www.youtube.com/watch?v=fakSKvP9yaM&t=2580s][talk]] 
 
   - *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
 
     Jenkins, Christopher and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/
 
-    [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]] 
+    [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib][bib]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types_Talk.pdf][slides]] [[https://youtu.be/mrgS7dcA6z4?t=1860][talk]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]] 
 
   - *Quotients by Idempotent Functions in Cedille*
 
