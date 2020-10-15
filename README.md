@@ -62,17 +62,12 @@ semantics, including categorical and realizability.
 
 ## Unpublished
 
--   **Elaborating inductive definitions and course-of-values induction in Cedille**
+-   **Elaborating course-of-values induction in Cedille**
     
-    Jenkins, Christopher and McDonald, Colin, and Stump, Aaron. (2019)
+    Jenkins, Christopher and Firsov, Denis and Diehl, Larry and McDonald, Colin
+    and Stump, Aaron. (2020)
     
-    [paper](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf) [bib](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.bib) [appendix](assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf)
--   **Course-of-value induction in Cedille**
-    
-    Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
-    (2018).
-    
-    [paper](assets/FDJS18_CoV-Ind.pdf) [bib](assets/FDJS18_CoV-Ind.bib)
+    [paper](assets/JFDMS20_Elaborating-CV-Induction.pdf) [appendix](assets/JFDMS20_Elaborating-CV-Induction-Appendix.pdf) [code](assets/JFDMS20_Elaborating-CV-Induction-Code.tar.gz)
 
 
 ## Reports
