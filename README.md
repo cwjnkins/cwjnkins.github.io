@@ -28,6 +28,18 @@ semantics, including categorical and realizability.
 
 # Papers
 
+-   **Simulating large eliminations in Cedille** (extended abstract)
+    
+    Jenkins, Christopher and Marmaduke, Andrew and Stump, Aaron. *[TYPES 2021](https://types21.liacs.nl/)*
+    
+    [paper](assets/JMS21_Simulating-Large-Elim-Cedille.pdf)
+
+-   **Zero-cost Constructor Subtyping**
+    
+    Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. *[IFL 2020](https://www.cs.kent.ac.uk/events/2020/ifl20/)*
+    
+    [paper](assets/MJS20_Zero-Cost-Constructor-Subtyping.bib) [bib](./assets/MJS20_Zero-Cost-Constructor-Subtyping.bib)
+
 -   **Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille**
     
     Stump, Aaron and Jenkins, Christopher and Spahn, Stephan and McDonald,
