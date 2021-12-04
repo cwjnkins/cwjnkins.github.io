@@ -2,7 +2,7 @@
 
 # About
 
-![img](assets/me.jpg)
+<!--- ![img](assets/me.jpg) -->
 
 4th year CS PhD student working with the [Computational Logic Center](http://clc.cs.uiowa.edu/) at the
 University of Iowa, advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/). Research assistantship working
