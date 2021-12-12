@@ -2,9 +2,9 @@
 
 # About
 
-<!--- ![img](assets/me.jpg) -->
+![img](assets/me.jpg)
 
-4th year CS PhD student working with the [Computational Logic Center](http://clc.cs.uiowa.edu/) at the
+5th year CS PhD candidate working with the [Computational Logic Center](http://clc.cs.uiowa.edu/) at the
 University of Iowa, advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/). Research assistantship working
 on [Cedille](https://cedille.github.io/), an experimental dependent type theory.
 
@@ -27,6 +27,12 @@ semantics, including categorical and realizability.
 
 
 # Papers
+
+-   **Monotone Recursive Types and Recursive Data Representations in Cedille**
+    
+    Jenkins, Christopher and Stump, Aaron. *[J. MSCS](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/monotone-recursive-types-and-recursive-data-representations-in-cedille/49B54AE2D6EAEC542726B65DA7CFC140)* (2021)
+    
+    [paper](assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf) [bib](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.bib) [code](https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data)
 
 -   **Simulating large eliminations in Cedille** (extended abstract)
     
@@ -58,12 +64,6 @@ semantics, including categorical and realizability.
     Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. *[TFP 2019](https://www.tfp2019.org/)*
     
     [paper](assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf) [bib](assets/MJS19_Quotients-Idempotent-Functions-Cedille.bib) [code](https://github.com/cedille/cedille-developments/tree/master/idem-quotients)
-
--   **Monotone Recursive Types and Recursive Data Representations in Cedille**
-    
-    Jenkins, Christopher and Stump, Aaron. Submitted to *[J. MSCS](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science)* (2019)
-    
-    [paper](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf) [bib](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.bib) [code](https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data)
 
 -   **Spine-local Type Inference**
     

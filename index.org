@@ -1,7 +1,6 @@
 #+TITLE: Chris Jenkins
 #+AUTHOR: Chris Jenkins
 #+EMAIL: christopher <dash> jenkins <at> uiowa <dot> edu
-# #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
 #+OPTIONS: toc:nil num:nil
 
 * About
@@ -9,7 +8,7 @@
   #+ATTR_HTML: :width 220 :style float:left; padding-right:64px
   [[file:assets/me.jpg]]
 
-  4th year CS PhD student working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
+  5th year CS PhD candidate working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
   University of Iowa, advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]]. Research assistantship working
   on [[https://cedille.github.io/][Cedille]], an experimental dependent type theory.
 
@@ -36,6 +35,12 @@
    - Social Media: [[https://github.com/cwjnkins][Github]], [[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language (YouTube)]], [[https://www.researchgate.net/profile/Christopher_Jenkins12][ResearchGate]]
 
 * Papers
+
+  - *Monotone Recursive Types and Recursive Data Representations in Cedille*
+
+    Jenkins, Christopher and Stump, Aaron. /[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/monotone-recursive-types-and-recursive-data-representations-in-cedille/49B54AE2D6EAEC542726B65DA7CFC140][J. MSCS]]/ (2021)
+
+    [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]] 
 
   - *Simulating large eliminations in Cedille* (extended abstract)
 
@@ -67,12 +72,6 @@
     Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. /[[https://www.tfp2019.org/][TFP 2019]]/
 
     [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]] 
-
-  - *Monotone Recursive Types and Recursive Data Representations in Cedille*
-
-    Jenkins, Christopher and Stump, Aaron. Submitted to /[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science][J. MSCS]]/ (2019)
-
-    [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]] 
  
   - *Spine-local Type Inference*
 
