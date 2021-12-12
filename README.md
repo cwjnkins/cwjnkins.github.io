@@ -32,7 +32,7 @@ semantics, including categorical and realizability.
     
     Jenkins, Christopher and Stump, Aaron. *[J. MSCS](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/monotone-recursive-types-and-recursive-data-representations-in-cedille/49B54AE2D6EAEC542726B65DA7CFC140)* (2021)
     
-    [paper](assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf) [bib](assets/JS19_Recursive-Types-and-Data-Representations-in-Cedille.bib) [code](https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data)
+    [paper](assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf) [bib](assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib) [code](https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data)
 
 -   **Simulating large eliminations in Cedille** (extended abstract)
     
