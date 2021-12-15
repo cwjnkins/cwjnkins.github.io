@@ -34,11 +34,12 @@ semantics, including categorical and realizability.
     
     [paper](assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf) [bib](assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib) [code](https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data)
 
--   **Simulating large eliminations in Cedille** (extended abstract)
+-   **Simulating large eliminations in Cedille**
     
-    Jenkins, Christopher and Marmaduke, Andrew and Stump, Aaron. *[TYPES 2021](https://types21.liacs.nl/)*
+    Jenkins, Christopher and Marmaduke, Andrew and Stump, Aaron. Submitted to
+    postproceedings of *[TYPES 2021](https://types21.liacs.nl/)*
     
-    [paper](assets/JMS21_Simulating-Large-Elim-Cedille.pdf)
+    [paper](assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf) [extended abstract](assets/JMS21_Simulating-Large-Elim-Cedille.pdf)
 
 -   **Zero-cost Constructor Subtyping**
     

@@ -42,11 +42,12 @@
 
     [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]] 
 
-  - *Simulating large eliminations in Cedille* (extended abstract)
+  - *Simulating large eliminations in Cedille*
 
-    Jenkins, Christopher and Marmaduke, Andrew and Stump, Aaron. /[[https://types21.liacs.nl/][TYPES 2021]]/
+    Jenkins, Christopher and Marmaduke, Andrew and Stump, Aaron. Submitted to
+    postproceedings of /[[https://types21.liacs.nl/][TYPES 2021]]/
 
-    [[file:assets/JMS21_Simulating-Large-Elim-Cedille.pdf][paper]]
+    [[file:assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf][paper]] [[file:assets/JMS21_Simulating-Large-Elim-Cedille.pdf][extended abstract]]
 
   - *Zero-cost Constructor Subtyping*
 
