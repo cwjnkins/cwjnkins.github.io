@@ -1,11 +1,11 @@
-#+TITLE: Chris Jenkins
-#+AUTHOR: Chris Jenkins
-#+EMAIL: christopher <dash> jenkins <at> uiowa <dot> edu
+#+TITLE: Christa Jenkins
+#+AUTHOR: Christa Jenkins (they/she)
+#+EMAIL: cwjnkins <at> uiowa <dot> edu
 #+OPTIONS: toc:nil num:nil
 
 * About
   
-  #+ATTR_HTML: :width 220 :style float:left; padding-right:64px
+  #+ATTR_HTML: :width 220 :style float:right; padding-left:64px
   [[file:assets/me.jpg]]
 
   5th year CS PhD candidate working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
@@ -30,7 +30,7 @@
    [[http://www.divms.uiowa.edu/][Mathematical Sciences]] University of Iowa, Iowa City, IA 52236.
    - Campus mailing address: 14 MacLean Hall
    - Office: Seamans Center for the Engineering Arts and Sciences, #1422
-   - Email: [[mailto:christopher-jenkins@uiowa.edu][christopher-jenkins@uiowa.edu]]
+   - Email: [[mailto:cwjnkins@uiowa.edu][cwjnkins@uiowa.edu]]
    - Website: https://cwjnkins.github.io/
    - Social Media: [[https://github.com/cwjnkins][Github]], [[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language (YouTube)]], [[https://www.researchgate.net/profile/Christopher_Jenkins12][ResearchGate]]
 
@@ -38,45 +38,45 @@
 
   - *Monotone Recursive Types and Recursive Data Representations in Cedille*
 
-    Jenkins, Christopher and Stump, Aaron. /[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/monotone-recursive-types-and-recursive-data-representations-in-cedille/49B54AE2D6EAEC542726B65DA7CFC140][J. MSCS]]/ (2021)
+    Jenkins, Christa and Stump, Aaron. /[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/monotone-recursive-types-and-recursive-data-representations-in-cedille/49B54AE2D6EAEC542726B65DA7CFC140][J. MSCS]]/ (2021)
 
     [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]] 
 
   - *Simulating large eliminations in Cedille*
 
-    Jenkins, Christopher and Marmaduke, Andrew and Stump, Aaron. Submitted to
+    Jenkins, Christa and Marmaduke, Andrew and Stump, Aaron. Submitted to
     postproceedings of /[[https://types21.liacs.nl/][TYPES 2021]]/
 
     [[file:assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf][paper]] [[file:assets/JMS21_Simulating-Large-Elim-Cedille.pdf][extended abstract]]
 
   - *Zero-cost Constructor Subtyping*
 
-    Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. /[[https://www.cs.kent.ac.uk/events/2020/ifl20/][IFL 2020]]/
+    Marmaduke, Andrew and Jenkins, Christa and Stump, Aaron. /[[https://www.cs.kent.ac.uk/events/2020/ifl20/][IFL 2020]]/
 
     [[file:assets/MJS20_Zero-Cost-Constructor-Subtyping.bib][paper]] [[./assets/MJS20_Zero-Cost-Constructor-Subtyping.bib][bib]]
 
   - *Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille*
 
-    Stump, Aaron and Jenkins, Christopher and Spahn, Stephan and McDonald,
+    Stump, Aaron and Jenkins, Christa and Spahn, Stephan and McDonald,
     Colin. /[[https://icfp20.sigplan.org/][ICFP 2020]]/
 
     [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf][paper]] [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.bib][bib]] [[https://www.youtube.com/watch?v=fakSKvP9yaM&t=2580s][talk]] 
 
   - *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
 
-    Jenkins, Christopher and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/
+    Jenkins, Christa and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/
 
     [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib][bib]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types_Talk.pdf][slides]] [[https://youtu.be/mrgS7dcA6z4?t=1860][talk]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]] 
 
   - *Quotients by Idempotent Functions in Cedille*
 
-    Marmaduke, Andrew and Jenkins, Christopher and Stump, Aaron. /[[https://www.tfp2019.org/][TFP 2019]]/
+    Marmaduke, Andrew and Jenkins, Christa and Stump, Aaron. /[[https://www.tfp2019.org/][TFP 2019]]/
 
     [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]] 
  
   - *Spine-local Type Inference*
 
-    Jenkins, Christopher and Stump, Aaron. /[[http://2018.iflconference.org/][IFL 2018]]/
+    Jenkins, Christa and Stump, Aaron. /[[http://2018.iflconference.org/][IFL 2018]]/
    
     [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local.bib][bib]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
 
@@ -84,19 +84,19 @@
 
    - *Elaborating course-of-values induction in Cedille*
 
-     Jenkins, Christopher and Firsov, Denis and Diehl, Larry and McDonald, Colin
+     Jenkins, Christa and Firsov, Denis and Diehl, Larry and McDonald, Colin
      and Stump, Aaron. (2020)
 
      [[file:assets/JFDMS20_Elaborating-CV-Induction.pdf][paper]] [[file:assets/JFDMS20_Elaborating-CV-Induction-Appendix.pdf][appendix]] [[file:assets/JFDMS20_Elaborating-CV-Induction-Code.tar.gz][code]]
 
    # - *Elaborating inductive definitions and course-of-values induction in Cedille*
 
-   #   Jenkins, Christopher and McDonald, Colin, and Stump, Aaron. (2019)
+   #   Jenkins, Christa and McDonald, Colin, and Stump, Aaron. (2019)
 
    #   [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][paper]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.bib][bib]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf][appendix]]
    # - *Course-of-value induction in Cedille*
    
-   #   Firsov, Denis and Diehl, Larry and Jenkins, Christopher and Stump, Aaron.
+   #   Firsov, Denis and Diehl, Larry and Jenkins, Christa and Stump, Aaron.
    #   (2018).
 
    #   [[file:assets/FDJS18_CoV-Ind.pdf][paper]] [[file:assets/FDJS18_CoV-Ind.bib][bib]] 
