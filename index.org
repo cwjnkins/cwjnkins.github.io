@@ -1,6 +1,6 @@
 #+TITLE: Christa Jenkins
-#+AUTHOR: Christa Jenkins (they/she)
-#+EMAIL: cwjnkins <at> uiowa <dot> edu
+#+AUTHOR: Christa Jenkins (she/they)
+#+EMAIL: christa-jenkins@uiowa.edu
 #+OPTIONS: toc:nil num:nil
 
 * About
@@ -8,7 +8,7 @@
   #+ATTR_HTML: :width 220 :style float:right; padding-left:64px
   [[file:assets/me.jpg]]
 
-  5th year CS PhD candidate working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
+  6th year CS PhD candidate working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
   University of Iowa, advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]]. Research assistantship working
   on [[https://cedille.github.io/][Cedille]], an experimental dependent type theory.
 

@@ -4,7 +4,7 @@
 
 ![img](assets/me.jpg)
 
-5th year CS PhD candidate working with the [Computational Logic Center](http://clc.cs.uiowa.edu/) at the
+6th year CS PhD candidate working with the [Computational Logic Center](http://clc.cs.uiowa.edu/) at the
 University of Iowa, advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/). Research assistantship working
 on [Cedille](https://cedille.github.io/), an experimental dependent type theory.
 
