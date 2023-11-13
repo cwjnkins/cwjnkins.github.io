@@ -1,6 +1,6 @@
 #+TITLE: Christa Jenkins
 #+AUTHOR: Christa Jenkins (she/they)
-#+EMAIL: christa-jenkins@uiowa.edu
+#+EMAIL: christa-jenkins@stonybrook.edu
 #+OPTIONS: toc:nil num:nil
 
 * About
@@ -8,14 +8,11 @@
   #+ATTR_HTML: :width 220 :style float:right; padding-left:64px
   [[file:assets/me.jpg]]
 
-  6th year CS PhD candidate working with the [[http://clc.cs.uiowa.edu/][Computational Logic Center]] at the
-  University of Iowa, advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]]. Research assistantship working
-  on [[https://cedille.github.io/][Cedille]], an experimental dependent type theory.
+  Postdoctoral associate at Stony Brook University, working with [[https://www.cs.stonybrook.edu/people/faculty/OmarChowdhury][Omar Chowdhury]].
+  Ph.D. from the University of Iowa, advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]]. 
 
-  Research interest is programming language theory, specifically (dependent)
-  type theory, inductive definitions, recursion schemes, elaboration, and
-  bidirectional type inference. Also interested in programming language
-  semantics, including categorical and realizability.
+  Research interests are programming language theory, dependent types,
+  applications of formal methods to security, inductive definitions, and elaboration.
   [[file:assets/cv.pdf][CV]].
 
   # Research interests include the design of programming languages with
@@ -27,10 +24,7 @@
   
 ** Locations
 
-   [[http://www.divms.uiowa.edu/][Mathematical Sciences]] University of Iowa, Iowa City, IA 52236.
-   - Campus mailing address: 14 MacLean Hall
-   - Office: Seamans Center for the Engineering Arts and Sciences, #1422
-   - Email: [[mailto:cwjnkins@uiowa.edu][cwjnkins@uiowa.edu]]
+   - Email: [[mailto:christa.jenkins@stonybrook.edu][christa.jenkins@stonybrook.edu]]
    - Website: https://cwjnkins.github.io/
    - Social Media: [[https://github.com/cwjnkins][Github]], [[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language (YouTube)]], [[https://www.researchgate.net/profile/Christopher_Jenkins12][ResearchGate]]
 
@@ -80,6 +74,14 @@
    
     [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local.bib][bib]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
 
+** Dissertation
+
+   - *Elaborating Inductive Definitions in the Calculus of Dependent Lambda
+     Eliminations*
+
+     Ph.D. thesis, 2023 (The University of Iowa)
+
+     [[file:assets/Je23-Dissertation.pdf][paper]]
 ** Unpublished
 
    - *Elaborating course-of-values induction in Cedille*
@@ -114,3 +116,4 @@
      Qualifying exam report (2018)
 
      [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]
+

@@ -4,24 +4,17 @@
 
 ![img](assets/me.jpg)
 
-6th year CS PhD candidate working with the [Computational Logic Center](http://clc.cs.uiowa.edu/) at the
-University of Iowa, advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/). Research assistantship working
-on [Cedille](https://cedille.github.io/), an experimental dependent type theory.
+Postdoctoral associate at Stony Brook University, working with [Omar Chowdhury](https://www.cs.stonybrook.edu/people/faculty/OmarChowdhury).
+Ph.D. from the University of Iowa, advised by [Dr. Aaron Stump](http://homepage.divms.uiowa.edu/~astump/). 
 
-Research interest is programming language theory, specifically (dependent)
-type theory, inductive definitions, recursion schemes, elaboration, and
-bidirectional type inference. Also interested in programming language
-semantics, including categorical and realizability.
+Research interests are programming language theory, dependent types,
+applications of formal methods to security, inductive definitions, and elaboration.
 [CV](assets/cv.pdf).
 
 
 ## Locations
 
-[Mathematical Sciences](http://www.divms.uiowa.edu/) University of Iowa, Iowa City, IA 52236.
-
--   Campus mailing address: 14 MacLean Hall
--   Office: Seamans Center for the Engineering Arts and Sciences, #1422
--   Email: [cwjnkins@uiowa.edu](mailto:cwjnkins@uiowa.edu)
+-   Email: [christa.jenkins@stonybrook.edu](mailto:christa.jenkins@stonybrook.edu)
 -   Website: <https://cwjnkins.github.io/>
 -   Social Media: [Github](https://github.com/cwjnkins), [Cedille Programming Language (YouTube)](https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw), [ResearchGate](https://www.researchgate.net/profile/Christopher_Jenkins12)
 
@@ -71,6 +64,16 @@ semantics, including categorical and realizability.
     Jenkins, Christa and Stump, Aaron. *[IFL 2018](http://2018.iflconference.org/)*
     
     [paper](assets/JS18_Spine-local.pdf) [bib](assets/JS18_Spine-local.bib) [slides](assets/JS18_Spine-local-Slides.pdf) [appendix](assets/JS18_Spine-local-Appendix.pdf)
+
+
+## Dissertation
+
+-   **Elaborating Inductive Definitions in the Calculus of Dependent Lambda
+    Eliminations**
+    
+    Ph.D. thesis, 2023 (The University of Iowa)
+    
+    [paper](assets/Je23-Dissertation.pdf)
 
 
 ## Unpublished
