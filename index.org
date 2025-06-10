@@ -9,11 +9,10 @@
   [[file:assets/me.jpg]]
 
   Postdoctoral associate at Stony Brook University, working with [[https://www.cs.stonybrook.edu/people/faculty/OmarChowdhury][Omar Chowdhury]].
-  Ph.D. from the University of Iowa, advised by [[http://homepage.divms.uiowa.edu/~astump/][Dr. Aaron Stump]]. 
+  Ph.D. from the University of Iowa, advised by [[https://cshub.bc.edu/~stumpaa/][Aaron Stump]].
 
-  Research interests are programming language theory, dependent types,
-  applications of formal methods to security, inductive definitions, and elaboration.
-  [[file:assets/cv.pdf][CV]].
+  Research interests: programming language theory, dependent types, applications
+  of formal methods to security. [[file:assets/cv.pdf][CV]].
 
   # Research interests include the design of programming languages with
   # Curry-style type theories, verified elaboration of sophisticated surface language
@@ -21,20 +20,57 @@
   # of datatypes and terminating recursion schemes.
 
   # Creator of Cedille casts 1-9 on /[[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language]]/ YouTube channel.
-  
+
 ** Locations
 
    - Email: [[mailto:christa.jenkins@stonybrook.edu][christa.jenkins@stonybrook.edu]]
+   - ORCID: https://orcid.org/0000-0002-5434-5018
    - Website: https://cwjnkins.github.io/
    - Social Media: [[https://github.com/cwjnkins][Github]], [[https://www.youtube.com/channel/UCfV0BJz4nltlj-4yWNZ34lw][Cedille Programming Language (YouTube)]], [[https://www.researchgate.net/profile/Christopher_Jenkins12][ResearchGate]]
 
 * Papers
 
+** Conferences
+
+- *ARMOR: A Formally Verified Implementation of X.509 Certificate Chain Validation*
+
+  Debnath, Joyanta and Jenkins, Christa and Sun, Yuteng and Chau, Sze Yiu and
+  Chowdhury, Omar. /[[https://ieeexplore.ieee.org/document/10646820][OAKLAND 2024]]/
+
+  [[file:assets/DJSCC24_ARMOR.pdf][paper]] [[file:assets/DJSCC24_ARMOR.bib][bib]] [[https://www.youtube.com/watch?v=ENRNG6BeMzQ][talk]] [[https://github.com/cwjnkins/armor-agda][code]]
+
+- *A Type-Based Approach to Divide-and-Conquer Recursion in Coq*
+
+  Abreu, Pedro and Delaware, Benjamin and Hubers, Alex and Jenkins, Christa an
+  Morris, J. Garrett and Stump, Aaron. /[[https://popl23.sigplan.org/details/POPL-2023-popl-research-papers/3/A-Type-Based-Approach-to-Divide-and-Conquer-Recursion-in-Coq][POPL 2023]]/
+
+  [[file:assets/ADHJMS23_Type-Based-Approach-to-DC-Recursion-Coq.pdf][paper]] [[file:assets/ADHJMS23_Type-Based-Approach-to-DC-Recursion-Coq.bib][bib]] [[https://zenodo.org/records/7305612][code]]
+
+- *Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille*
+
+  Stump, Aaron and Jenkins, Christa and Spahn, Stephan and McDonald,
+  Colin. /[[https://icfp20.sigplan.org/][ICFP 2020]]/
+
+  [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf][paper]] [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.bib][bib]] [[https://www.youtube.com/watch?v=fakSKvP9yaM&t=2580s][talk]]
+
+** Journals
+
   - *Monotone Recursive Types and Recursive Data Representations in Cedille*
 
     Jenkins, Christa and Stump, Aaron. /[[https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/monotone-recursive-types-and-recursive-data-representations-in-cedille/49B54AE2D6EAEC542726B65DA7CFC140][J. MSCS]]/ (2021)
 
-    [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]] 
+    [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.pdf][paper]] [[file:assets/JS21_Recursive-Types-and-Data-Representations-in-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/recursive-representation-of-data][code]]
+
+** Workshops
+
+- *Towards Formal Verification of HotStuff-Based Byzantine Fault Tolerant
+  Consensus in Agda*
+
+  Carr, Harold and Jenkins, Christa and Moir, Mark and Miraldo, Victor Cacciari
+  and Silva, Lisandra. /[[https://nfm2022.caltech.edu/][NFM 2022]]/
+
+  [[file:assets/CJMMS22_Agda-HotStuff.pdf][paper]] [[file:assets/CJMMS22_Agda-HotStuff.bib][bib]] [[https://github.com/oracle/bft-consensus-agda][code]]
+
 
   - *Simulating large eliminations in Cedille*
 
@@ -43,35 +79,29 @@
 
     [[file:assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf][paper]] [[file:assets/JMS21_Simulating-Large-Elim-Cedille.pdf][extended abstract]]
 
-  - *Zero-cost Constructor Subtyping*
+- *Zero-cost Constructor Subtyping*
 
-    Marmaduke, Andrew and Jenkins, Christa and Stump, Aaron. /[[https://www.cs.kent.ac.uk/events/2020/ifl20/][IFL 2020]]/
+  Marmaduke, Andrew and Jenkins, Christa and Stump, Aaron. /[[https://www.cs.kent.ac.uk/events/2020/ifl20/][IFL 2020]]/
 
-    [[file:assets/MJS20_Zero-Cost-Constructor-Subtyping.bib][paper]] [[./assets/MJS20_Zero-Cost-Constructor-Subtyping.bib][bib]]
+  [[file:assets/MJS20_Zero-Cost-Constructor-Subtyping.bib][paper]] [[./assets/MJS20_Zero-Cost-Constructor-Subtyping.bib][bib]]
 
-  - *Strong Functional Pearl: Harper's Regular-Expression Matcher in Cedille*
 
-    Stump, Aaron and Jenkins, Christa and Spahn, Stephan and McDonald,
-    Colin. /[[https://icfp20.sigplan.org/][ICFP 2020]]/
+- *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
 
-    [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.pdf][paper]] [[file:assets/SJSM20_Strong-Functional-Pearl-Harpers-Regular-Expression-Matcher.bib][bib]] [[https://www.youtube.com/watch?v=fakSKvP9yaM&t=2580s][talk]] 
+  Jenkins, Christa and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/
 
-  - *Efficient lambda encodings for Mendler-style coinductive types in Cedille*
-
-    Jenkins, Christa and Stump, Aaron and Diehl, Larry. /[[https://msfp-workshop.github.io/msfp2020/][MSFP 2020]]/
-
-    [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib][bib]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types_Talk.pdf][slides]] [[https://youtu.be/mrgS7dcA6z4?t=1860][talk]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]] 
+  [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.pdf][paper]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types.bib][bib]] [[file:assets/JSD20_Efficient-Mendler-Style-Coinductive-Types_Talk.pdf][slides]] [[https://youtu.be/mrgS7dcA6z4?t=1860][talk]] [[https://github.com/cedille/cedille-developments/tree/master/efficient-mendler-codata][code]]
 
   - *Quotients by Idempotent Functions in Cedille*
 
     Marmaduke, Andrew and Jenkins, Christa and Stump, Aaron. /[[https://www.tfp2019.org/][TFP 2019]]/
 
-    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]] 
- 
+    [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.pdf][paper]] [[file:assets/MJS19_Quotients-Idempotent-Functions-Cedille.bib][bib]] [[https://github.com/cedille/cedille-developments/tree/master/idem-quotients][code]]
+
   - *Spine-local Type Inference*
 
     Jenkins, Christa and Stump, Aaron. /[[http://2018.iflconference.org/][IFL 2018]]/
-   
+
     [[file:assets/JS18_Spine-local.pdf][paper]] [[file:assets/JS18_Spine-local.bib][bib]] [[file:assets/JS18_Spine-local-Slides.pdf][slides]] [[file:assets/JS18_Spine-local-Appendix.pdf][appendix]]
 
 ** Dissertation
@@ -91,18 +121,14 @@
 
      [[file:assets/JFDMS20_Elaborating-CV-Induction.pdf][paper]] [[file:assets/JFDMS20_Elaborating-CV-Induction-Appendix.pdf][appendix]] [[file:assets/JFDMS20_Elaborating-CV-Induction-Code.tar.gz][code]]
 
-   # - *Elaborating inductive definitions and course-of-values induction in Cedille*
 
-   #   Jenkins, Christa and McDonald, Colin, and Stump, Aaron. (2019)
+* Service
 
-   #   [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.pdf][paper]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille.bib][bib]] [[file:assets/JMS20_Elaborating-Inductive-Definitions-and-COV-Induction-Cedille-Appendix.pdf][appendix]]
-   # - *Course-of-value induction in Cedille*
-   
-   #   Firsov, Denis and Diehl, Larry and Jenkins, Christa and Stump, Aaron.
-   #   (2018).
+- FSCD
 
-   #   [[file:assets/FDJS18_CoV-Ind.pdf][paper]] [[file:assets/FDJS18_CoV-Ind.bib][bib]] 
+- CAV
 
+* Other
 ** Reports
 
 
@@ -110,7 +136,7 @@
 
      Comprehensive exam report (2020)
 
-     [[file:assets/Je20-Comp.pdf][paper]] 
+     [[file:assets/Je20-Comp.pdf][paper]]
    - *Bidirectional type inference in programming languages*
 
      Qualifying exam report (2018)
