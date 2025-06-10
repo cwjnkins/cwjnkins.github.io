@@ -119,24 +119,6 @@ of formal methods to security. [CV](assets/cv.pdf).
 
 # Service
 
--   FSCD
-
--   CAV
-
-
-# Other
-
-
-## Reports
-
--   **Elaborating inductive definitions in Curry-style polymorphic type theory**
-    
-    Comprehensive exam report (2020)
-    
-    [paper](assets/Je20-Comp.pdf)
--   **Bidirectional type inference in programming languages**
-    
-    Qualifying exam report (2018)
-    
-    [paper](assets/Jen18_Qualifying-Exam.pdf)
+-   *[FSCD 2025](https://fscd-conference.org/)*, Invited external reviewer
+-   *[CAV 2021](https://i-cav.org/2021/)*, Artifact evaluation comittee member
 

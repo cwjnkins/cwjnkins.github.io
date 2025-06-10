@@ -124,22 +124,5 @@
 
 * Service
 
-- FSCD
-
-- CAV
-
-* Other
-** Reports
-
-
-   - *Elaborating inductive definitions in Curry-style polymorphic type theory*
-
-     Comprehensive exam report (2020)
-
-     [[file:assets/Je20-Comp.pdf][paper]]
-   - *Bidirectional type inference in programming languages*
-
-     Qualifying exam report (2018)
-
-     [[file:assets/Jen18_Qualifying-Exam.pdf][paper]]
-
+- /[[https://fscd-conference.org/][FSCD 2025]]/, Invited external reviewer
+- /[[https://i-cav.org/2021/][CAV 2021]]/, Artifact evaluation comittee member
