@@ -70,7 +70,7 @@ of formal methods to security. [CV](assets/cv.pdf).
     Jenkins, Christa and Marmaduke, Andrew and Stump, Aaron. Submitted to
     postproceedings of *[TYPES 2021](https://types21.liacs.nl/)*
     
-    [paper](assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf) [extended abstract](assets/JMS21_Simulating-Large-Elim-Cedille.pdf)
+    [paper](assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf) [extended abstract](assets/JMS21_Simulating-Large-Elim-Cedille.pdf) [code](https://github.com/cedille/cedille-developments/tree/master/large-elim-sim)
 
 -   **Zero-cost Constructor Subtyping**
     

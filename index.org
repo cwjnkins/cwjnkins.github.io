@@ -77,7 +77,7 @@
     Jenkins, Christa and Marmaduke, Andrew and Stump, Aaron. Submitted to
     postproceedings of /[[https://types21.liacs.nl/][TYPES 2021]]/
 
-    [[file:assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf][paper]] [[file:assets/JMS21_Simulating-Large-Elim-Cedille.pdf][extended abstract]]
+    [[file:assets/JMS21_Simulating-Large-Elim-Cedille-Full.pdf][paper]] [[file:assets/JMS21_Simulating-Large-Elim-Cedille.pdf][extended abstract]] [[https://github.com/cedille/cedille-developments/tree/master/large-elim-sim][code]]
 
 - *Zero-cost Constructor Subtyping*
 
