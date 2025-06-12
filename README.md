@@ -2,8 +2,6 @@
 
 # About
 
-![img](assets/me.jpg)
-
 Postdoctoral associate at Stony Brook University, working with [Omar Chowdhury](https://www.cs.stonybrook.edu/people/faculty/OmarChowdhury).
 Ph.D. from the University of Iowa, advised by [Aaron Stump](https://cshub.bc.edu/~stumpaa/).
 
@@ -33,7 +31,7 @@ of formal methods to security. [CV](assets/cv.pdf).
 
 -   **A Type-Based Approach to Divide-and-Conquer Recursion in Coq**
     
-    Abreu, Pedro and Delaware, Benjamin and Hubers, Alex and Jenkins, Christa an
+    Abreu, Pedro and Delaware, Benjamin and Hubers, Alex and Jenkins, Christa and
     Morris, J. Garrett and Stump, Aaron. *[POPL 2023](https://popl23.sigplan.org/details/POPL-2023-popl-research-papers/3/A-Type-Based-Approach-to-Divide-and-Conquer-Recursion-in-Coq)*
     
     [paper](assets/ADHJMS23_Type-Based-Approach-to-DC-Recursion-Coq.pdf) [bib](assets/ADHJMS23_Type-Based-Approach-to-DC-Recursion-Coq.bib) [code](https://zenodo.org/records/7305612)
